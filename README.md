@@ -85,7 +85,8 @@ jupyter notebook CIFAR10_CNN.ipynb
 ```
 📷 Sample Output
 
-<p align="center"> <img src="https://raw.githubusercontent.com/yourusername/cifar10-cnn/main/assets/output_sample.png" width="600"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/yourusername/cifar10-cnn/main/assets/output_sample.png" width="600"></p>
+
 ---
 🧠 Model Architecture
 
@@ -96,6 +97,7 @@ Optimizer: Adam
 Loss: Categorical Crossentropy
 
 Activation: ReLU and Softmax
+
 ---
 👤 Author
 
