@@ -29,7 +29,24 @@ The **CIFAR-10** dataset consists of 60,000 32x32 color images in 10 classes:
 > 📦 50,000 training images and 10,000 testing images
 
 ---
+<a id="contents_tabel"></a>    
+<div style="border-radius:10px; padding: 15px; background-color: #e2c9ff; font-size:125%; text-align:left">
 
+<h2 align="left"><font color=#8502d1>Table of Contents</font></h2>
+    
+* [Step 1 | Import Necessary Libraries](#import)
+* [Step 2 | Data Preparation and Exploration](#exploration)
+* [Step 3 | Data Preprocessing](#preprocessing)
+    - [Step 3.1 | Normalization of Image Data](#normalization)
+    - [Step 3.2 | One-Hot Encoding of Labels](#onehot)
+    - [Step 3.3 | Data Augmentation](#augmentation)
+* [Step 4 | Define CNN Model Architecture](#cnn)
+* [Step 5 | Training the CNN Model](#train)
+* [Step 6 | Visualizing the Learning Curves](#curves)
+* [Step 7 | Evaluating the Optimal Model on Test Data](#evaluation)
+* [Step 8 | Performance on an Out-of-Dataset Image](#image)
+  
+---
 ## 🚀 Features
 
 - ✅ Convolutional Neural Network (CNN) architecture
