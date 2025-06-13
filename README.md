@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26FfdhoAFKjAlQeWs/giphy.gif" width="280" alt="CNN Animation">
+  <img src="https://miro.medium.com/v2/resize:fit:800/format:webp/1*LRGrF1pS9nNhlgVgOY_M8Q.gif" width="280" alt="CNN Animation">
 </p>
 
 <p align="center">
