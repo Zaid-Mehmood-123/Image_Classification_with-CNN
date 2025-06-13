@@ -91,11 +91,13 @@ Zaid Mehmood
 📧 zaidmehmood0123@gmail.com
 
 🌐 LinkedIn "ZAID MEHMOOD"
+
 ---
 🌟 Show Some Love
 
 If you found this project helpful or interesting, give it a ⭐ and share it with your friends and community!
 
+---
 🏷️ Tags
 
 #deep-learning #cnn #tensorflow #keras #image-classification #cifar10 #computer-vision
